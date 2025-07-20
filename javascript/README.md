@@ -125,5 +125,14 @@
             <a href="./src/find_all_duplicates_in_an_array/find_all_duplicates_in_an_array.test.js">tests</a>
         </td>
     </tr>
+     <tr>
+        <td>2629. Function Composition</td>
+        <td>
+            <a href="./src/find_all_duplicates_in_an_array/find_all_duplicates_in_an_array.js">implementation</a>
+        </td>
+        <td>
+            <a href="./src/find_all_duplicates_in_an_array/find_all_duplicates_in_an_array.test.js">tests</a>
+        </td>
+    </tr>
 </tbody>
 </table>
