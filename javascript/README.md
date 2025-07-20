@@ -143,5 +143,14 @@
             <a href="./src/generate_fibonacci_sequence/generate_fibonacci_sequence.test.js">tests</a>
         </td>
     </tr>
+     <tr>
+        <td>128. Longest Consecutive Sequence</td>
+        <td>
+            <a href="./src/longest_consecutive_sequence/01_longest_consecutive_sequence.js">implementation</a>
+        </td>
+        <td>
+            <a href="./src/longest_consecutive_sequence/longest_consecutive_sequence.test.js">tests</a>
+        </td>
+    </tr>
 </tbody>
 </table>
