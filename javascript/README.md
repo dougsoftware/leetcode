@@ -80,5 +80,14 @@
             <a href="/src/array_reduce_transformation/array_reduce_transformation.test.js">tests</a>
         </td>
     </tr>
+     <tr>
+        <td>146. Sort List</td>
+        <td>
+            <a href="./src/sort_list/sort_list.js">implementation</a>
+        </td>
+        <td>
+            <a href="./src/sort_list/sort_list.test.js">tests</a>
+        </td>
+    </tr>
 </tbody>
 </table>
