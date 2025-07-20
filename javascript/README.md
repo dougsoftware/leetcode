@@ -107,5 +107,14 @@
             <a href="./src/counter_ii/counter_ii.test.js">tests</a>
         </td>
     </tr>
+      <tr>
+        <td>2634. Filter Elements from Array</td>
+        <td>
+            <a href="./src/filter_elements_from_array/filter_elements_from_array.js">implementation</a>
+        </td>
+        <td>
+            <a href="./src/filter_elements_from_array/filter_elements_from_array.test.js">tests</a>
+        </td>
+    </tr>
 </tbody>
 </table>
