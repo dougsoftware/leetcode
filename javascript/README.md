@@ -134,5 +134,14 @@
             <a href="./src/find_all_duplicates_in_an_array/find_all_duplicates_in_an_array.test.js">tests</a>
         </td>
     </tr>
+     <tr>
+        <td>2648. Generate Fibonacci Sequence</td>
+        <td>
+            <a href="./src/generate_fibonacci_sequence/generate_fibonacci_sequence.js">implementation</a>
+        </td>
+        <td>
+            <a href="./src/generate_fibonacci_sequence/generate_fibonacci_sequence.test.js">tests</a>
+        </td>
+    </tr>
 </tbody>
 </table>
