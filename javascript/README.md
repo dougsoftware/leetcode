@@ -116,5 +116,14 @@
             <a href="./src/filter_elements_from_array/filter_elements_from_array.test.js">tests</a>
         </td>
     </tr>
+     <tr>
+        <td>442. Find All Duplicates in an Array</td>
+        <td>
+            <a href="./src/find_all_duplicates_in_an_array/find_all_duplicates_in_an_array.js">implementation</a>
+        </td>
+        <td>
+            <a href="./src/find_all_duplicates_in_an_array/find_all_duplicates_in_an_array.test.js">tests</a>
+        </td>
+    </tr>
 </tbody>
 </table>
