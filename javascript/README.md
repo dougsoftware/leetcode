@@ -89,5 +89,14 @@
             <a href="./src/sort_list/sort_list.test.js">tests</a>
         </td>
     </tr>
+    <tr>
+        <td>2635. Apply Transform Over Each Element in Array</td>
+        <td>
+            <a href="./src/apply_transform_over_each_element_in_array/apply_transform_over_each_element_in_array.js">implementation</a>
+        </td>
+        <td>
+            <a href="./src/apply_transform_over_each_element_in_array/apply_transform_over_each_element_in_array.test.js">tests</a>
+        </td>
+    </tr>
 </tbody>
 </table>
